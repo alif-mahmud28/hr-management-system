@@ -11,4 +11,4 @@ Features:
 Tools used:
 - Microsoft Excel
 
-Author: Alif Mahmuf
+Author: Alif Mahmud
